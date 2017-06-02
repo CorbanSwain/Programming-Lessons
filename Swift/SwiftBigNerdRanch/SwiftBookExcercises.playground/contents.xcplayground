@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' display-mode='raw'>
+    <pages>
+        <page name='1. Getting Started'/>
+        <page name='2. Variables'/>
+        <page name='3. Conditionals'/>
+        <page name='4. Numbers'/>
+        <page name='5. Switch'/>
+        <page name='6. Loops'/>
+        <page name='7. Strings'/>
+        <page name='8. Optionals'/>
+        <page name='9. Arrays'/>
+        <page name='10. Dictionaies'/>
+        <page name='11. Sets'/>
+        <page name='12. Functions'/>
+        <page name='13. Closures'/>
+        <page name='14. Enumerations'/>
+        <page name='15. Structs and Classes (Mutating Methods)'/>
+    </pages>
+</playground>
