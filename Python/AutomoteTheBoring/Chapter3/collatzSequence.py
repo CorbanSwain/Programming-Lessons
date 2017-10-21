@@ -1,6 +1,7 @@
 # Chapter 3 - Practice Project 1
 
 def collatz(number):
+    """ Calculates and logs the next Collatz sequence value. """
     isEven = (number % 2) == 0
     if isEven:
         val = number // 2
@@ -39,11 +40,11 @@ while continuePlay:
 
     print('Would you like to enter another number (Y or N)?')
     while True:
-        response = input()
-        if response == 'Y' or response == 'y':
+        response = str(input()).lower
+        if response == 'y':
             continuePlay = True
             break
-        elif response == 'N' or response == 'n':
+        elif response == 'n':
             continuePlay = False
             break
         else:

@@ -1,0 +1,7 @@
+# Emacs Temp Files
+\#*
+.#*
+*~
+
+# Ignore Mac Settings Files
+.DS_Store
