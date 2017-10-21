@@ -1,0 +1,40 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/corbann.swain/Google Drive/CorbanSwain Google Drive/Academics/WUSTL Semesters/7 Fall 2016/Senior Design/BME Senior Design, 2016-17/Swift Programming/Corban Practice/MonsterTown/MonsterTown/Town.swift",
+      "line": 13,
+      "symbol": "Town.population",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/corbann.swain/Google Drive/CorbanSwain Google Drive/Academics/WUSTL Semesters/7 Fall 2016/Senior Design/BME Senior Design, 2016-17/Swift Programming/Corban Practice/MonsterTown/MonsterTown/Town.swift",
+      "line": 14,
+      "symbol": "Town.numberOfStopLights",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/corbann.swain/Google Drive/CorbanSwain Google Drive/Academics/WUSTL Semesters/7 Fall 2016/Senior Design/BME Senior Design, 2016-17/Swift Programming/Corban Practice/MonsterTown/MonsterTown/main.swift",
+      "line": 11,
+      "symbol": "myTown",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/corbann.swain/Google Drive/CorbanSwain Google Drive/Academics/WUSTL Semesters/7 Fall 2016/Senior Design/BME Senior Design, 2016-17/Swift Programming/Corban Practice/MonsterTown/MonsterTown/main.swift",
+      "line": 14,
+      "symbol": "fredTheZombie",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/corbann.swain/Google Drive/CorbanSwain Google Drive/Academics/WUSTL Semesters/7 Fall 2016/Senior Design/BME Senior Design, 2016-17/Swift Programming/Corban Practice/MonsterTown/MonsterTown/main.swift",
+      "line": 22,
+      "symbol": "newVampire",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/corbann.swain/Google Drive/CorbanSwain Google Drive/Academics/WUSTL Semesters/7 Fall 2016/Senior Design/BME Senior Design, 2016-17/Swift Programming/Corban Practice/MonsterTown"
+}

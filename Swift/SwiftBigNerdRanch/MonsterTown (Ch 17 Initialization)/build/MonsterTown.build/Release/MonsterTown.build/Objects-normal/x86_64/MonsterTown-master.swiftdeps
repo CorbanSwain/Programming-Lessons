@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "2006ff91e812c44bb01f72d2114c08a9"
+build_time: [536318814, 314954000]
+inputs:
+  "/Users/corbann.swain/Google Drive/CorbanSwain Google Drive/Academics/WUSTL Semesters/7 Fall 2016/Senior Design/BME Senior Design, 2016-17/Swift Programming/Corban Practice/MonsterTown/MonsterTown/main.swift": [536301934, 0]
+  "/Users/corbann.swain/Google Drive/CorbanSwain Google Drive/Academics/WUSTL Semesters/7 Fall 2016/Senior Design/BME Senior Design, 2016-17/Swift Programming/Corban Practice/MonsterTown/MonsterTown/Zombie.swift": [536316624, 0]
+  "/Users/corbann.swain/Google Drive/CorbanSwain Google Drive/Academics/WUSTL Semesters/7 Fall 2016/Senior Design/BME Senior Design, 2016-17/Swift Programming/Corban Practice/MonsterTown/MonsterTown/Monster.swift": [536299483, 0]
+  "/Users/corbann.swain/Google Drive/CorbanSwain Google Drive/Academics/WUSTL Semesters/7 Fall 2016/Senior Design/BME Senior Design, 2016-17/Swift Programming/Corban Practice/MonsterTown/MonsterTown/Vampire.swift": [536301464, 0]
+  "/Users/corbann.swain/Google Drive/CorbanSwain Google Drive/Academics/WUSTL Semesters/7 Fall 2016/Senior Design/BME Senior Design, 2016-17/Swift Programming/Corban Practice/MonsterTown/MonsterTown/Town.swift": [536316624, 0]

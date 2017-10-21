@@ -1,0 +1,79 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Zombie"
+provides-nominal:
+- "C11MonsterTown6Zombie"
+provides-member:
+- ["C11MonsterTown6Zombie", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "<"
+- !private "-"
+- !private "&&"
+- !private ">"
+- "Monster"
+- "BooleanLiteralType"
+- !private ">="
+- "Zombie"
+depends-member:
+- !private ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "terrorizeTown"]
+- !private ["Ps9AnyObject", "town"]
+- ["Ps9AnyObject", "walksWithLimp"]
+- ["Ps9AnyObject", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["Sb", "deinit"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- ["Si", "deinit"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- ["C11MonsterTown7Monster", "deinit"]
+- ["C11MonsterTown7Monster", "init"]
+- ["C11MonsterTown7Monster", "terrorizeTown"]
+- !private ["C11MonsterTown7Monster", "town"]
+- ["C11MonsterTown7Monster", "walksWithLimp"]
+- ["C11MonsterTown7Monster", ""]
+- ["Sq", "deinit"]
+- !private ["V11MonsterTown4Town", "changePopulation"]
+- ["V11MonsterTown4Town", "deinit"]
+- !private ["V11MonsterTown4Town", "population"]
+- ["C11MonsterTown6Zombie", "deinit"]
+- ["C11MonsterTown6Zombie", "init"]
+- ["C11MonsterTown6Zombie", "terrorizeTown"]
+- !private ["C11MonsterTown6Zombie", "town"]
+- ["C11MonsterTown6Zombie", "walksWithLimp"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sb"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- !private "Ps9Equatable"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps8Hashable"
+- "Si"
+- !private "Ps25LosslessStringConvertible"
+- "C11MonsterTown7Monster"
+- "Sq"
+- "V11MonsterTown4Town"
+- "C11MonsterTown6Zombie"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+interface-hash: "46eca16c45f561d06bd03046716f5239"
